@@ -1,1 +1,6 @@
 firest  file 
+
+test
+`:wq
+git status 
+`
